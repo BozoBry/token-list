@@ -117191,17 +117191,14 @@
     },
     {
       "chainId": 101,
-      "address": "FAFDfoUkaxoMqiNur9F1iigdBNrXFf4uNmS5XrhMewvf",
-      "symbol": "FAF",
-      "name": "Friends and Family Community Token",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FAFDfoUkaxoMqiNur9F1iigdBNrXFf4uNmS5XrhMewvf/logo.png",
+      "address": "4D3NYwBQREyxTWUdWUzjgP5UTNkSCDmnGfyAA5pfAHke",
+      "symbol": "Veep",
+      "name": "Veep",
+      "decimals": 9,
+      "logoURI": "https://github.com/BozoBry/Veeep/commit/10859a0fae3408c4a5819dd00f1c7b789b0cf7ff",
       "tags": [
         "utility-token"
       ],
-      "extensions": {
-        "website": "https://find-and-update.company-information.service.gov.uk/company/13753949"
-      }
     }
   ],
   "version": {
